@@ -22,6 +22,7 @@ public class MyCalc {
 	{
 		System.out.println("Welcome to SRE");
 		System.out.println("Welcome to DevOps");
+		System.out.println("Welcome to Jenkins");
 	}
 
 	public static void main(String[] args) {
