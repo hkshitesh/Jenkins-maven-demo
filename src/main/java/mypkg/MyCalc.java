@@ -24,6 +24,7 @@ public class MyCalc {
 		System.out.println("Welcome to DevOps");
 		System.out.println("Welcome to Jenkins");
 		System.out.println("Welcome to Poll SCM");
+		System.out.println("Welcome to Job Chaining");
 	}
 
 	public static void main(String[] args) {
